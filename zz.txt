@@ -1,0 +1,10 @@
+# 表示注释
+
+视频.avi
+
+
+在.gitignore  里面的文件上传时会忽略  
+
+查看状态  git status
+
+把暂存区的文件 提交到本地仓库  git commit -m  m后面的是注释  
